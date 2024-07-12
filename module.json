@@ -1,0 +1,23 @@
+{
+  "id": "cpr-asset-mooks-and-blackice",
+  "title": "CPR Asset  Mooks And BlackICE",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "cpr-asset-mooks-and-blackice",
+      "label": "CPR Asset  Mooks And BlackICE",
+      "path": "packs/cpr-asset-mooks-and-blackice",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cyberpunk-red-core",
+      "flags": {}
+    }
+  ]
+}
