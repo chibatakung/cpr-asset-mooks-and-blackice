@@ -22,7 +22,7 @@
   ],
 
   "description": "Collection of items in cyberpunk red core rulebook : Mocks, Backup Lawman, Black Ice program",
-  "manifest": "https://raw.githubusercontent.com/chibatakung/cpr-asset-mooks-and-blackice/main/module.json?token=GHSAT0AAAAAACUYFETWUOYVEXH5ER7YG2LGZUQVBXA",
+  "manifest": "https://raw.githubusercontent.com/chibatakung/cpr-asset-mooks-and-blackice/main/module.json",
   "download": "https://github.com/chibatakung/cpr-asset-mooks-and-blackice/archive/refs/heads/main.zip"
 
 }
