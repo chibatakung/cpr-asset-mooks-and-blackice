@@ -1,7 +1,7 @@
 {
   "id": "cpr-asset-mooks-and-blackice",
   "title": "CPR Asset  Mooks And BlackICE",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -12,18 +12,47 @@
       "label": "CPR Asset  Mooks And BlackICE",
       "path": "packs/cpr-asset-mooks-and-blackice",
       "type": "Adventure",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cpr-asset-item",
+      "label": "CPR Asset  Item",
+      "path": "packs/cpr-asset-item",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "cyberpunk-red-core",
-      "flags": {}
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "cpr-asset-mooks",
+      "label": "CPR Asset  Mooks",
+      "path": "packs/cpr-asset-mooks",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cyberpunk-red-core"
+    },
+    {
+      "name": "cpr-asset-macro",
+      "label": "CPR Asset  Macro",
+      "path": "packs/cpr-asset-macro",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cyberpunk-red-core"
     }
   ],
-
   "description": "Collection of items in cyberpunk red core rulebook : Mocks, Backup Lawman, Black Ice program",
   "manifest": "https://raw.githubusercontent.com/chibatakung/cpr-asset-mooks-and-blackice/main/module.json",
   "download": "https://github.com/chibatakung/cpr-asset-mooks-and-blackice/archive/refs/heads/main.zip"
-
 }
-
