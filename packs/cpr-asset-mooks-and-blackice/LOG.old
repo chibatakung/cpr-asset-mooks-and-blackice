@@ -1,7 +1,0 @@
-2024/07/13-03:54:05.532 5eec Recovering log #21
-2024/07/13-03:54:05.536 5eec Delete type=0 #21
-2024/07/13-03:54:05.536 5eec Delete type=3 #20
-2024/07/13-03:55:07.674 7bf4 Level-0 table #25: started
-2024/07/13-03:55:07.674 7bf4 Level-0 table #25: 0 bytes OK
-2024/07/13-03:55:07.677 7bf4 Delete type=0 #23
-2024/07/13-03:55:07.677 7bf4 Manual compaction at level-0 from '!adventures!zUQ969b9WHWgD073' @ 72057594037927935 : 1 .. '!adventures!zUQ969b9WHWgD073' @ 0 : 0; will stop at (end)
