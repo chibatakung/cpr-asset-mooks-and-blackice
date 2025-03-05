@@ -1,0 +1,8 @@
+2025/03/05-11:55:43.001 6dc Recovering log #24
+2025/03/05-11:55:43.006 6dc Delete type=0 #24
+2025/03/05-11:55:43.006 6dc Delete type=3 #22
+2025/03/05-11:55:44.843 1aa4 Level-0 table #29: started
+2025/03/05-11:55:44.843 1aa4 Level-0 table #29: 0 bytes OK
+2025/03/05-11:55:44.846 1aa4 Delete type=0 #27
+2025/03/05-11:55:44.853 1aa4 Manual compaction at level-0 from '!folders!he4nOohV9FB08udW' @ 72057594037927935 : 1 .. '!journal.pages!VoZhp3UISQ7Q86kV.gkqkSXspncJMxS8x' @ 0 : 0; will stop at (end)
+2025/03/05-11:55:44.853 1aa4 Manual compaction at level-1 from '!folders!he4nOohV9FB08udW' @ 72057594037927935 : 1 .. '!journal.pages!VoZhp3UISQ7Q86kV.gkqkSXspncJMxS8x' @ 0 : 0; will stop at (end)
