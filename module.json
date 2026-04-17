@@ -1,10 +1,10 @@
 {
   "id": "cpr-asset-mooks-and-blackice",
   "title": "CPR Asset  Mooks And BlackICE",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "packs": [
     {
